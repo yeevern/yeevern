@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-Welcome to my page! <br>I'm a Computer Science student in Monash University Malaysia.
+Welcome to my page! <br>I'm a 2nd year Computer Science student in Monash University Malaysia.
 
-<h3>🔗<b> Connect with me</b></h3>
+<br><h3>🔗<b> Connect with me</b></h3>
 <div id="socials">
   <a href="https://www.linkedin.com/in/yee-vern-chang-b912b9224/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
@@ -20,7 +20,7 @@ Welcome to my page! <br>I'm a Computer Science student in Monash University Mala
   </a>
 </div>
 
-<h3> <b>Skills</b></h3>
+<br><h3>📌<b> Skills</b></h3>
 <div id="skills">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-193440?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -37,8 +37,7 @@ Welcome to my page! <br>I'm a Computer Science student in Monash University Mala
 </div>
     
     
-<h3> &#x1f4c8 <b>GitHub Stats</b></h3>
-
+<br><h3>📈<b> GitHub Stats</b></h3>
 <a href="https://github.com/yeevern/yeevern">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeevern&count_private=true&show_icons=true&theme=omni" />
 </a>
