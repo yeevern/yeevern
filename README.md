@@ -31,6 +31,7 @@ Welcome to my page! <br>I'm a Computer Science student in Monash University Mala
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Haskell">
 </div>
     
     
@@ -44,7 +45,7 @@ Welcome to my page! <br>I'm a Computer Science student in Monash University Mala
 </a>
 
 
-
+# https://simpleicons.org/ # icon colour theme
 
 
 
