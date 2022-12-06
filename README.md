@@ -29,8 +29,8 @@ Welcome to my page! <br>I'm a Computer Science student in Monash University Mala
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
-  <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Typescript">
-  <img src="https://img.shields.io/badge/Haskell-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Haskel">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
 </div>
     
     
