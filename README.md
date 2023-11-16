@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-Welcome to my page! <br>I'm a 2nd year Computer Science student in Monash University Malaysia.
+Welcome to my page! <br>I'm a 3rd year Computer Science student at Monash University Malaysia. I'm currently undertaking Bachelor of Computer Science in Advanced Computer science Specialisation.
 
 <br><h3>🔗<b> Connect with me</b></h3>
 <div id="socials">
